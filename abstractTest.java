@@ -1,7 +1,9 @@
-// Abstract class
+]// Abstract class
 abstract class Animal {
   
 }
+//--------------------------------------------------
+
 
 // Subclass (inherit from Animal)
 class Pig extends Animal {
