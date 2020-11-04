@@ -40,7 +40,6 @@ git commit -m "commit messege"
 if your computer has two or more account and your commit online is showing the name on the different user beside the one you authenticated with chane git user and email for the cloned repository on your computer 
 ```bash
 git config user.email "email@cc.ac.mw"
-git config user.name "username"
 ```
 
 
